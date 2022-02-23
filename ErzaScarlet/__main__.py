@@ -72,7 +72,7 @@ Too see commands send /help .
 
 
 HELP_STRINGS = """
-*Main Commands :* [ʕ·ᴥ·ʔ](https://telegra.ph/file/f14c63556a46189167eb7.jpg)
+*Main Commands :* [ʕ··ʔ](https://telegra.ph/file/f14c63556a46189167eb7.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /settings: 
