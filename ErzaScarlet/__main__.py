@@ -64,15 +64,14 @@ Hey I Am {}
 
 I can manage your group easily with many feautres and games. **Just add me in your group to use me.
 
-*Status*: [Working Fine](https://t.me/ErzaScarlet_Justice)
+*Status*: [Working Fine](https://t.me/Marin_Support)
 *Life Force*: `100%`
 
 Too see commands send /help .
 """
 
 
-HELP_STRINGS = """
-*Main Commands :* [ʕ·ᴥ·ʔ](https://telegra.ph/file/f14c63556a46189167eb7.jpg)
+HELP_STRINGS = """https://te.legra.ph/file/94b7a5162d6ce377d2237.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /settings: 
@@ -80,8 +79,8 @@ HELP_STRINGS = """
    ◔ in a Group: will redirect you to pm, with all that chat's settings.
 """
 
-ErzaScarlet_IMG = "https://indianime.com/wp-content/uploads/2021/08/photo_2021-08-21_12-17-22.jpg)"
-ErzaScarlet_YAWN = "https://telegra.ph/file/baad9f6111310638c438c.mp4" #"https://telegra.ph/file/df5c1103ab9d539ab760d.gif"
+ErzaScarlet_IMG = "https://te.legra.ph/file/94b7a5162d6ce377d2237.jpg)"
+ErzaScarlet_YAWN = "https://te.legra.ph/file/94b7a5162d6ce377d2237.jpg" #"https://te.legra.ph/file/94b7a5162d6ce377d2237.jpg"
 YAWN_CPT = "I am Awake ! ~ 💤"
 
 IMPORTED = {}
@@ -206,7 +205,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="Add Erza In Your Group",
+                                text="Add Marin In Your Group",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username,
                                 ),
@@ -218,24 +217,24 @@ def start(update: Update, context: CallbackContext):
                                 url=f"https://t.me/{SUPPORT_CHAT}",
                             ),
                             InlineKeyboardButton(
-                                text="Anime Group",
-                                url="https://t.me/indianimein",
+                                text="Chit Chat",
+                                url="https://t.me/bestwalefriends",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Anime Channel",
+                                text="My Husbando/Owner",
                                 url="https://t.me/indianimei",
                             ),
                             InlineKeyboardButton(
-                                text="Anime Index",
-                                url="https://t.me/IndiAnimeNetwork",
+                                text="Akatsuki Network",
+                                url="https://t.me/Akatsuki_Network",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="IndiAnime Network",
-                                url="https://t.me/IndiAnimeNetwork",
+                                text="Akatsuki Clan Owner",
+                                url="https://t.me/YahikoAkatsuki9",
                             ),
                         ],
                     ],
